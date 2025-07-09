@@ -9,6 +9,10 @@ Edga Service Web es una página profesional dedicada a ofrecer servicios digital
 
 Hecha con [Next.js](https://nextjs.org/) y [Tailwind CSS](https://tailwindcss.com/), esta web es sencillita, rápida y responsive y preparada para producción.
 
+![Captura de pantalla 2025-07-08 162252](https://github.com/user-attachments/assets/d06cf6e2-e736-4096-9c5a-a6bd46f3094d)
+![Captura de pantalla 2025-07-08 162146](https://github.com/user-attachments/assets/4e2da37a-dc35-48da-afff-99b5181ccbfc)
+![Captura de pantalla 2025-07-08 162315](https://github.com/user-attachments/assets/882f1fd7-b699-4373-a825-c497df1577b9)
+![Captura de pantalla 2025-07-08 162310](https://github.com/user-attachments/assets/9fd0d139-5dd5-4fc3-808e-4c17f5e248b3)
 
 ---
 
