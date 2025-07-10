@@ -42,7 +42,7 @@ Estructura compatible con múltiples idiomas mediante `next-intl`. Actualmente:
 
 - Español 🇪🇸
 - Inglés 🇬🇧
-
+(Aun sin desarrollar del todo)
 ---
 
 ## 📱 Responsive y Accesible
